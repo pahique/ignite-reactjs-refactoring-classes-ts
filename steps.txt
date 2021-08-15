@@ -1,0 +1,8 @@
+yarn
+yarn add typescript
+yarn add @types/react
+yarn add @types/react-dom
+yarn add @types/react-modal
+yarn add @types/react-router-dom
+yarn add @types/styled-components
+
